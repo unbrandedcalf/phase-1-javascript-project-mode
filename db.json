@@ -1,0 +1,34 @@
+{
+    "food": [
+      {
+        "id": 1,
+        "name": "Berry Fresh",
+        "image": "https://images.pexels.com/photos/1099680/pexels-photo-1099680.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+        
+      },
+      {
+        "id": 2,
+        "name": "Oodles of Noodles",
+        "image": "https://images.pexels.com/photos/1279330/pexels-photo-1279330.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+         
+      },
+      {
+        "id": 3,
+        "name": "More Salt",
+        "image": "https://images.pexels.com/photos/1109197/pexels-photo-1109197.jpeg"
+         
+      },
+      {
+        "id": 4,
+        "name": "Murder Your Hunger",
+        "image": "https://images.pexels.com/photos/1199957/pexels-photo-1199957.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+         
+      },
+      {
+        "id": 5,
+        "name": "Kebab",
+        "image": "https://images.pexels.com/photos/2641886/pexels-photo-2641886.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+         
+      }
+    ]
+  }
